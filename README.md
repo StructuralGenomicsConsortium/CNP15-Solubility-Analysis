@@ -25,7 +25,7 @@ Dr Anwar Hossain, UNC Chapel Hill @ahsgc
 Dr Peter Brown, UNC Chapel Hill @toluene44  
 Wee Qi Tan, UCL @ucnvwqt  
 
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant  
 [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant
 
 You can see all the other contributors in the Issues (tab above).
