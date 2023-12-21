@@ -10,11 +10,11 @@ You can contribute! Everything is open, with all content governed by a CC-BY-4.0
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP15-Solubility-Analysis/wiki).
+For the science background and the story so far, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP15-Solubility-Analysis/wiki). For live discussions and recent contributions, head to the [Issues](https://github.com/StructuralGenomicsConsortium/CNP15-Solubility-Analysis/issues) (tab above). Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy.
 
-For answers to all the questions you have about how these projects work, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
+For answers to all the general questions you have about how these projects work, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
-If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/StructuralGenomicsConsortium/CNP15-Solubility-Analysis/issues) (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask general questions.
+If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/StructuralGenomicsConsortium/CNP15-Solubility-Analysis/issues), which is a good way to communicate openly. There's also an email address (chemistry@thesgc.org) you can use to ask general questions.
 
 Some humans involved in this Open Chemistry Networks Project:  
 Professor Matthew Todd, UCL @mattodd  
