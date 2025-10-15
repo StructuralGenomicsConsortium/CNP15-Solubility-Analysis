@@ -2,8 +2,6 @@
 
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 15) devoted to understanding measured vs predicted solubility for small organic molecules.
 
-This project is part of the READDI-AViDD antiviral consortium.
-
 We aim to compare measured solubility data with predictions by software, to answer the question "Can we just predict solubility, rather than have to measure it?"
 
 You can contribute! Everything is open, with all content governed by a CC-BY-4.0 licence.
@@ -24,6 +22,7 @@ Han Wee Ong, UNC Chapel Hill
 Dr Anwar Hossain, UNC Chapel Hill @ahsgc  
 Dr Peter Brown, UNC Chapel Hill @toluene44  
 Wee Qi Tan, UCL @ucnvwqt  
+Dr Rebecka Isaksson, UCL @RebeckaIsaksson
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant  
 [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant
